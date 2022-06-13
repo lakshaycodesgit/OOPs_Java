@@ -14,7 +14,7 @@ Kunal's OOPs Playlist - https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3Xj
 ## How They Look
 
 
-<img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png" alt="Your image title" width="350"/>        <img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop2.png" alt="Your image title" width="350"/>
+<img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop1.png" alt="Your image title" width="350"/>        <img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop2.png" alt="Your image title" width="350"/>
 
 
 They are divided in 7 parts , reffering to each video in Kunal's Playlist. Also there
