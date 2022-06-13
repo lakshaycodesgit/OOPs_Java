@@ -13,9 +13,9 @@ is an all-in-one file .
 
 ## How They Look
 
-![alt text](https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png = 250x250)
+![alt text](https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png)
 
-<a href="url"><img src="(https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png" align="left" height="48" width="48" ></a>
+<img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png" alt="Your image title" width="250"/>
 ![alt text](https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop2.png)
 ## Socials
 Twitter - https://twitter.com/lakshaystwt
