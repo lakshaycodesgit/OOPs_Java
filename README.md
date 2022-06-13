@@ -13,7 +13,7 @@ is an all-in-one file .
 
 ## How They Look
 
-![alt text](https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png)
+![alt text](https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png = 250x250)
 
 
 ![alt text](https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop2.png)
