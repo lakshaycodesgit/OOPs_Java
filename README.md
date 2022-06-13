@@ -14,7 +14,7 @@ is an all-in-one file .
 ## How They Look
 
 
-<img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png" alt="Your image title" width="350"/> <img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop2.png" alt="Your image title" width="350"/>
+<img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png" alt="Your image title" width="350"/>        <img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop2.png" alt="Your image title" width="350"/>
 
 
 
