@@ -13,11 +13,14 @@ is an all-in-one file .
 
 ## How They Look
 
-![alt text](https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png)
 
-<img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png" alt="Your image title" width="250"/>
-![alt text](https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop2.png)
+<img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oo%5Bp1.png" alt="Your image title" width="350"/>
+<img src="https://github.com/lakshaycodesgit/OOPs_Java/blob/main/oop2.png" alt="Your image title" width="350"/>
+
+
+
 ## Socials
+
 Twitter - https://twitter.com/lakshaystwt
 
 LinkedIn - https://linkedin.com/in/gulatil
