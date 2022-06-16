@@ -1,7 +1,7 @@
 
 # OOPs in JAVA 
 
-*Part 1 Uploaded!*
+*All notes Uploaded!*
 
 This is repository containing Object Oriented programming notes in Java. This are 
 Digital Notes and are made entirely based on Kunal Khushwaha's OOPs in Java Playlist.
